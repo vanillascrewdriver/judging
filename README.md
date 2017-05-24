@@ -19,6 +19,7 @@
         *  Update the user as soon as a new message is sent
 * Use CSS to make it look nice
 * Check/Return different types of error (Time Out, Compile Error, Wrong Answer) 
+* Stop running program after n second limit.
 
 ## Clarification System
 * Use the message system (as part of the grader) to create clarification system
